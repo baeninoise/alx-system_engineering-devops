@@ -1,1 +1,2 @@
- cat MINGW64 ~/alx-system_engineering-devops/0x00-shell_basics
+#!/bin/bash
+cat MINGW64 ~/alx-system_engineering-devops/0x00-shell_basics
